@@ -1,4 +1,4 @@
-![Python](https://openwhisk.apache.org/images/runtimes/icon-python-text-color-horz.png)
+![Python](https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png)
 
 
 ## About me
