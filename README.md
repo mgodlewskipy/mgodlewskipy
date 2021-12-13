@@ -1,6 +1,6 @@
 ## About me
-- 👋 Hi, I’m @mgodlewskipy
-- 👀 I am interested in programming, in particular with the use of python technology
+- 👋 Hi, I’m **@mgodlewskipy**
+- 👀 I am currently interested in **machine learning** and **data analysis**
 - 🌱 I'm currently learning Python and other web development tools
 ## 📫 How to reach me :
 - [Mail](mailto:matgodlewski.py@gmail.com)
